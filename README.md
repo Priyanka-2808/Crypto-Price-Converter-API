@@ -36,10 +36,11 @@ The server will be running at http://localhost:3000.
 ```
 
 ### API Usage
-Get Crypto Price
-Endpoint: /get-crypto-price
-Method: POST
-Request Body Example:
+>[!IMPORTANT]
+>Get Crypto Price
+>Endpoint: /get-crypto-price
+>Method: POST
+>Request Body Example:
 json
 Copy code
 {
