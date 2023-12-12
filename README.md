@@ -16,7 +16,6 @@ Follow the steps below to set up and run the project locally.
 ### Installation
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/your-username/crypto-price-api.git
    ```
@@ -26,8 +25,7 @@ cd crypto-price-api
 ```
 
 2. Install dependencies:
-
-``bash
+```bash
 npm install
 ```
 
