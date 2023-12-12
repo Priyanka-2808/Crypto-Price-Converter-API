@@ -35,6 +35,8 @@ node server.js
 The server will be running at http://localhost:3000.
 ```
 
+![Screenshot 2023-12-12 121044](https://github.com/Priyanka-2808/Crypto-Price-Converter-API/assets/87664708/ad475730-eb51-4c45-9f9b-3d0a58e76fbb)
+
 ### API Usage
 ```Get Crypto Price
   Endpoint: /get-crypto-price
